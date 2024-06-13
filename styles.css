@@ -127,9 +127,8 @@ body {
 .f1 h2 {
     color: #fff;
     font-size: 1.7em;
-    position: relative;
-    top: 40px;
-    left: 60px;
+    margin-block-start: 5px;
+    margin-block-end: 5px ;
 }
 
 .columns {
